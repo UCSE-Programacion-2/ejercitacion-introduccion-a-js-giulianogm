@@ -7,7 +7,7 @@
   "eslint.validate": ["javascript"],
   "editor.minimap.enabled": false,
   "editor.lineNumbers": "on",
-  "editor.rulers": [100],
+  "editor.rulers": [],
   "editor.wordWrap": "on",
   "editor.bracketPairColorization.enabled": true,
   "editor.guides.bracketPairs": true,
